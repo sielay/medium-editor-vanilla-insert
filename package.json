@@ -1,0 +1,25 @@
+{
+  "name": "medium-editor-vanilla-insert",
+  "version": "0.0.1",
+  "description": "VanillaJS, simple, extendable version of https://github.com/orthes/medium-editor-insert-plugin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sielay/medium-editor-vanilla-insert.git"
+  },
+  "keywords": [
+    "medium-editor",
+    "insert",
+    "wysiwyg",
+    "vanilljs"
+  ],
+  "author": "lukaszsielski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/medium-editor-vanilla-insert/issues"
+  },
+  "homepage": "https://github.com/sielay/medium-editor-vanilla-insert#readme"
+}
