@@ -160,6 +160,7 @@
         },
 
         showToolbar: function (event) {
+            this.hideButtons();
             this._screwBlur = true;
             if (event) {
                 event.preventDefault();
