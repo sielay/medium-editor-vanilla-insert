@@ -23,8 +23,6 @@
         init: function () {
             root.MediumEditor.Extension.prototype.init.apply(this, arguments);
 
-            console.log(this);
-
             this.subscribe('editableKeydown', this.handleKeydown.bind(this));
             this.subscribe('editableClick', this.handleKeydown.bind(this));
             this.getEditorOption('elementsContainer').appendChild(this.getToolbarElement());
