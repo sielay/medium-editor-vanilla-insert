@@ -1,6 +1,6 @@
 # Medium Editor Vanilla Insert
 
-Extension to [MediumEditor](https://github.com/yabwe/medium-editor) inspired by [](http://linkesch.com/medium-editor-insert-plugin/) but without dependencies.
+Extension to [MediumEditor](https://github.com/yabwe/medium-editor) inspired by [medium-editor-insert-plugin](http://linkesch.com/medium-editor-insert-plugin/) but without dependencies.
 
 It's written with Browserify in mind, but should work for most cases.
 
